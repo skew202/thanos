@@ -52,7 +52,7 @@ require (
 	github.com/uber/jaeger-client-go v2.25.0+incompatible
 	github.com/uber/jaeger-lib v2.4.0+incompatible
 	github.com/weaveworks/common v0.0.0-20200914083218-61ffdd448099
-	go.elastic.co/apm v1.5.0
+	go.elastic.co/apm v1.11.0
 	go.elastic.co/apm/module/apmot v1.5.0
 	go.uber.org/atomic v1.7.0
 	go.uber.org/automaxprocs v1.2.0
